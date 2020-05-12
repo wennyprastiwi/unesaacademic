@@ -65,15 +65,15 @@ php artisan serve
 
 Untuk menjalankan aplikasi di browser gunakan url "localhost:8000"
 
-## Akun untuk login
+## Akun untuk login ##
 * Mahasiswa
-username : 081411631070
-password : mahasiswa
+username : (NIM) 313131
+password : (NIM) 313131
 
 * Dosen
-username : 12345678910
+username : (NIP) 12345678912
 password : dosen
 
 * Karyawan
-username : 12345
+username : (NIP) 12345
 password : karyawan
