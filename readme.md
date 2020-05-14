@@ -11,7 +11,7 @@ Setelah itu run command berikut di cmd direktori repo tadi
 composer install
 ```
 
-Import database airlangga_academic.sql ke phpmyadmin (filenya ada di dalam repo tadi)
+Import database unesa_academic.sql ke phpmyadmin (filenya ada di dalam repo tadi)
 
 Buat file baru bernama .env
 
